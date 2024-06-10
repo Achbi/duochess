@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     fontWeight: '900',
     textAlign: 'center',
   },
-  image: {
+  imag: {
     width: 60,
     aspectRatio: 1,
   },
